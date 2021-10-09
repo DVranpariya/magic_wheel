@@ -1,0 +1,79 @@
+name: magicwheel
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.4+4
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  carousel_slider: ^4.0.0
+  transparent_image: ^2.0.0
+  flutter_countdown_timer: ^4.1.0
+#  smooth_star_rating: ^1.1.1
+  flutter_spinning_wheel: any
+#  image_picker: ^0.7.5
+  images_picker: ^1.2.4
+  url_launcher: ^6.0.9
+  dio: ^4.0.0
+  fluttertoast: ^8.0.8
+  get_storage: ^2.0.3
+  device_info: ^2.0.2
+  firebase_messaging: ^10.0.4
+  firebase_core: ^1.4.0
+  modal_progress_hud_nsn: ^0.1.0-nullsafety-1
+  cached_network_image: ^3.1.0
+  timezone: ^0.7.0
+  intl: ^0.17.0
+  numberpicker: ^2.1.1
+#  multi_select_item: ^1.0.3
+  flutter_hooks: ^0.18.0
+  quiver: ^3.0.1
+  google_sign_in: ^5.0.7
+  firebase_auth: ^3.0.2
+#  geolocator: ^7.4.0
+  geocoding: ^2.0.1
+  twitter_login: ^4.0.1
+  google_mobile_ads: ^0.13.4
+  flutter_facebook_auth: ^3.5.1
+  flutter_inapp_purchase: ^5.0.3
+  flutter_rating_bar: ^4.0.0
+  audioplayers: ^0.20.1
+  flick_video_player: ^0.3.1
+  video_player: ^2.2.3
+  youtube_player_flutter: ^8.0.0
+  app_settings: ^4.1.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/sound/wheel.mp3
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Light.ttf
+          weight: 100
+        - asset: assets/fonts/Poppins-Regular.ttf
+          weight: 300
+        - asset: assets/fonts/Poppins-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Poppins-SemiBold.ttf
+          weight: 700
+        - asset: assets/fonts/Poppins-Bold.ttf
+          weight: 900
+

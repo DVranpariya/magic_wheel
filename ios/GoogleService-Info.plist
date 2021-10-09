@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>90971571086-t4brftp3pfver7gk9lk2o5n5v7mg9k55.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.90971571086-t4brftp3pfver7gk9lk2o5n5v7mg9k55</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>90971571086-bjimc5ikh3plora8nqj8evt40sq42g21.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB3Yt5_kYfIcv31fw38c1ZrheJXc5VCGyQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>90971571086</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.appquarters.bettermomfamilyactivities</string>
+	<key>PROJECT_ID</key>
+	<string>bettermom-family-activities</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bettermom-family-activities.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:90971571086:ios:b5830931fc144753d95adf</string>
+</dict>
+</plist>

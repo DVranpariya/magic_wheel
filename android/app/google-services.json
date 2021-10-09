@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "90971571086",
+    "project_id": "bettermom-family-activities",
+    "storage_bucket": "bettermom-family-activities.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90971571086:android:e1813c674b2318a9d95adf",
+        "android_client_info": {
+          "package_name": "com.magicwheel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90971571086-bjimc5ikh3plora8nqj8evt40sq42g21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.magicwheel",
+            "certificate_hash": "855254fc06e2196db53158e0ba0ed67daba1abea"
+          }
+        },
+        {
+          "client_id": "90971571086-ant5s7v7943ssrl7praf2df3f1vrlck4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY2dCQV6y_aXLGtYjX8qosbVOdrYPkwho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90971571086-ant5s7v7943ssrl7praf2df3f1vrlck4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
